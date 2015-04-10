@@ -1,6 +1,6 @@
 {
   "name": "generator-ios",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generator for iOS projects in the style of Deviatry, Inc.",
   "license": "MIT",
   "main": "app/index.js",
