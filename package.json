@@ -1,0 +1,31 @@
+{
+  "name": "generator-ios",
+  "version": "0.0.1",
+  "description": "Generator for iOS projects in the style of Deviatry, Inc.",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "Deviatry/generator-ios",
+  "author": {
+    "name": "Nick Curran",
+    "email": "nick@tcob.com",
+    "url": "http://tcob.com"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2",
+    "glob": "5.0.x"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
