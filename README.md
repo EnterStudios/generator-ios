@@ -13,7 +13,7 @@ tools.
 
 
 ```bash
-yo generator-ios
+yo ios
 ```
 
 
