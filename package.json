@@ -4,12 +4,11 @@
   "description": "Generator for iOS projects in the style of Deviatry, Inc.",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "Deviatry/generator-ios",
-  "author": {
-    "name": "Nick Curran",
-    "email": "nick@tcob.com",
-    "url": "http://tcob.com"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deviatry/generator-ios"
   },
+  "author": "Nick Curran <nick@tcob.com> (http://tcob.com)",
   "scripts": {
     "test": "mocha"
   },
@@ -27,5 +26,12 @@
   },
   "devDependencies": {
     "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Deviatry/generator-ios/issues"
+  },
+  "homepage": "https://github.com/Deviatry/generator-ios",
+  "directories": {
+    "test": "test"
   }
 }
