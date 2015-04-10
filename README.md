@@ -1,4 +1,4 @@
-# generator-ios [![Build Status](https://secure.travis-ci.org/nickcurran/generator-ios.png?branch=master)](https://travis-ci.org/nickcurran/generator-ios)
+# generator-ios [![Build Status](https://secure.travis-ci.org/Deviatry/generator-ios.png?branch=master)](https://travis-ci.org/Deviatry/generator-ios)
 
 > [Yeoman](http://yeoman.io) generator
 
