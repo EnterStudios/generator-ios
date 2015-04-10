@@ -1,5 +1,5 @@
 //
-//  Copyright (c) 2014 <%= companyName %>. All rights reserved.
+//  Copyright (c) 2015 <%= companyName %>. All rights reserved.
 //
 
 import UIKit
