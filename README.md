@@ -11,8 +11,10 @@ class types like Controller, Model, View, Service, Layout, etc., and they're map
 maintain a folder structure that looks more like your project. This is especially helpful when viewing the code with other
 tools.
 
+After you have installed Yeoman, install the generator and scaffold out an app:
 
 ```bash
+npm install -g generator-ios
 yo ios
 ```
 
